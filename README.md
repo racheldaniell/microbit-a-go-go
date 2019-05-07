@@ -8,4 +8,4 @@ Files run individually as stand-alone programs, except for those intended to be 
 
 TECHNICAL NOTES:
 
-Since development was done on MacOS, you may see a ".DSstore" file in the github repository, which can be ignored.
+You may see a ".DSstore" file in the github repository, which can be ignored.
