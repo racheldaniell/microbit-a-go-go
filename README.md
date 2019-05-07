@@ -3,7 +3,7 @@ repository related to experimentation with the MicroBit:Go microcontroller in th
 
 The files here are intended to be flashed to a Micro:Bit to facilitate user interaction with that device.
 
-Files run individually as stand-alone programs.
+Files run individually as stand-alone programs, except for those intended to be run as a set (which are incomplete draft code) ending in "_part1" "_part2" 
 
 
 TECHNICAL NOTES:
